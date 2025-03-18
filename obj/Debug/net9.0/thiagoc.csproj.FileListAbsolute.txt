@@ -12,3 +12,4 @@ C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\refint\thiagoc.dll
 C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.pdb
 C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.genruntimeconfig.cache
 C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\ref\thiagoc.dll
+c:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.sourcelink.json
