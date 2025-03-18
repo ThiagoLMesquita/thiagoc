@@ -1,0 +1,14 @@
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\bin\Debug\net9.0\thiagoc.exe
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\bin\Debug\net9.0\thiagoc.deps.json
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\bin\Debug\net9.0\thiagoc.runtimeconfig.json
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\bin\Debug\net9.0\thiagoc.dll
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\bin\Debug\net9.0\thiagoc.pdb
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.AssemblyInfoInputs.cache
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.AssemblyInfo.cs
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.csproj.CoreCompileInputs.cache
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.dll
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\refint\thiagoc.dll
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.pdb
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\thiagoc.genruntimeconfig.cache
+C:\xampp\htdocs\thiagoc\thiagoc\thiagoc\obj\Debug\net9.0\ref\thiagoc.dll
